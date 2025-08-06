@@ -1,4 +1,4 @@
-# AI Venture Validator
+# Nuvoro Ai
 
 A comprehensive startup idea validation platform powered by AI that transforms raw business concepts into actionable business intelligence through market analysis, feature roadmaps, and agile sprint planning.
 
@@ -204,8 +204,8 @@ Validates a startup idea and generates comprehensive business analysis.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-venture-validator.git
-   cd ai-venture-validator
+   git clone https://github.com/kasinathsg/Nuvoro-Ai.git
+   cd Nuvoro-Ai
    ```
 
 2. **Install dependencies**
