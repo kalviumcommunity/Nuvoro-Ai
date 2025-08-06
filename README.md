@@ -1,4 +1,4 @@
-🧠 Project: Alchemi — The AI Startup Ideation Assistant
+🧠 Project: Nuvoro — The AI Startup Ideation Assistant
 Turn a one-liner idea into a full-blown startup blueprint — in seconds.
 From "I want to build an app for dog therapists" to a structured business plan with sprint schedules, market data, and a monetization model. All AI-generated. All JSON. All magic. ✨
 
